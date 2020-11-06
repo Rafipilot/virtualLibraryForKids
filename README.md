@@ -11,5 +11,5 @@
 ## our journey
 ###### It all started november5th 2020 when i  was doing my  homework. It was called "invention convention" basically i had to make up three invention ideas one of them was a virtual library. when i told my best friend about it and we had brain wave and thought that we could make it into a business idea ,having already done a lemonade stand together we knew how to do business.Together till now, we continue to be great buisiness partners!-even as we are writing this. Have a good day. 
 
-![alt text
+![alt text](https://www.booktrust.org.uk/globalassets/images/b-heart-images/hero-banner/anjan-sarkar-illustration-of-boy-reading-b-heart.png?w=435&h=435&mode=crop&quality=70anchor=middlecenter)
 
