@@ -13,3 +13,7 @@
 
 ![alt text](https://www.booktrust.org.uk/globalassets/images/b-heart-images/hero-banner/anjan-sarkar-illustration-of-boy-reading-b-heart.png?w=435&h=435&mode=crop&quality=70anchor=middlecenter)
 
+## advantages 
+
+###### The advantages of using digital reading is that you can read at night without a light.Also you don't have to buy books you can just search them up and read them instantly!tthe other advantages is that you don't have to retern it or worrying about it cluttering your house. Also a bag can hold 6 books maxin your bag however you can store your phone in your pocket and it can hold 10's of 1000's of books.
+
