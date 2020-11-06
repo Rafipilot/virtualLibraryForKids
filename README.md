@@ -6,7 +6,7 @@
 
 
 ## about us 
-###### Our standared package is a £5 membership(per month) and you get access to a wide variety of books on your phone. Our premium is where you pay £5.00 extra but you get the latest books!we aim to give you  full flexibilty on the amount of time you keep your book thats why are system monitors your reading and once you finished your book it will show completed and you will get an achievment.Finally the intresting part,in virtual libary we like to celebrate and reward you with lots of prizes.  
+###### Our standared package is a £5 membership(per month) and you get access to a wide variety of books on your phone. Our premium is where you pay £5.00 extra but you get the latest books!we aim to give you  full flexibilty on the amount of time you keep your book thats why are system monitors your reading and once you finished your book it will show completed and you will get an achievment.Finally the intresting part,at book worms we like to celebrate and reward you with lots of prizes.  
 
 ## our journey
 ###### It all started november5th 2020 when i  was doing my  homework. It was called "invention convention" basically i had to make up three invention ideas one of them was a virtual library. When i told my best friend about it we had brain wave and thought that we could make it into a business idea ,having already done a lemonade stand together we knew how to do business.Together till now, we continue to be great buisiness partners!-even as we are writing this. Have a good day. 
