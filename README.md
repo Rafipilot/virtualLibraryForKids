@@ -1,4 +1,4 @@
-# Virtual library
+# Book Worms
 ### *a safe place where kids read online*
 ###### *made by kids for kids*(and adults too)
 
