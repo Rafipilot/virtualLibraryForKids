@@ -16,7 +16,6 @@
 
 ###### The advantages of using digital reading is that you can read at night without a light. Also you don't have to buy books you can just search them up and read them instantly!The other advantages is that you don't have to return it or worrying about it cluttering your house. Also a bag can hold 6 books max your bag however you can store your phone in your pocket and it can hold 10's of 1000's of books.
 
-#### Intrested try our app now £5 per month!:
 
 $ git submodule deinit PATH-TO-SUBMODULE
 $ git rm PATH-TO-SUBMODULE
