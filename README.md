@@ -19,3 +19,7 @@
 
 #### Intrested try our app now £5 per month!:
 
+$ git submodule deinit PATH-TO-SUBMODULE
+$ git rm PATH-TO-SUBMODULE
+$ git commit -m "Remove submodule"
+$ rm -rf .git/modules/PATH-TO-SUBMODULE
